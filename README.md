@@ -1,2 +1,2 @@
 # sl_demo
-practice githun push
+practice github push
